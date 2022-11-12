@@ -1,0 +1,22 @@
+h1 {
+  margin: 40px 300px;
+}
+table {
+  border-collapse: collapse;
+  margin: 20px;
+  font-size: 30px;
+  border: 3px solid black;
+  border-collapse: collapse;
+  width: 800px;
+  height: 400px;
+}
+th {
+  background: rgb(238, 172, 172);
+  color: rgb(252, 249, 249);
+}
+th {
+  border: 2px solid black;
+}
+td {
+  border: 2px solid black;
+}
